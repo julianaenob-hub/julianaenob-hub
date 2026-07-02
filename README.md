@@ -1,10 +1,8 @@
 <h1 align="center">✨ Olá! Eu sou a Juliana Vitória ✨</h1>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
-
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/coding.gif" width="320"/>
+</p>
 
 <h3 align="center">
 💜 Desenvolvedora Full Stack em formação
