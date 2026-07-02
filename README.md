@@ -1,11 +1,6 @@
 <h1 align="center">✨ Olá! Eu sou a Juliana Vitória ✨</h1>
 
-[p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Animated/Girl%20Coding.gif"
-    width="420"
-    alt="Girl Coding"
-  
+
 
 <h3 align="center">
 💜 Desenvolvedora Full Stack em formação
