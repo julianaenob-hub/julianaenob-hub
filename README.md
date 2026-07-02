@@ -5,8 +5,7 @@
     src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Animated/Girl%20Coding.gif"
     width="420"
     alt="Girl Coding"
-  />
-</p>](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif
+  
 
 <h3 align="center">
 💜 Desenvolvedora Full Stack em formação
