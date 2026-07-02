@@ -1,8 +1,10 @@
 <h1 align="center">✨ Olá! Eu sou a Juliana Vitória ✨</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
-</p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+
+</div>
 
 <h3 align="center">
 💜 Desenvolvedora Full Stack em formação
@@ -27,8 +29,8 @@ Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em sol
 - ☕ Java
 - 🍃 Spring Boot
 - 🗄️ MySQL
-- 🌐 HTML5
-- 🎨 CSS3
+- 🌐 HTML
+- 🎨 CSS
 - ✨ JavaScript
 - Git & GitHub
 
@@ -46,17 +48,6 @@ Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em sol
 
 ---
 
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=julianaenob-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaenob-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🌸 Atualmente
 
