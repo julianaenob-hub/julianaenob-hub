@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-💜 Desenvolvedora Full Stack em formação
+💜 Desenvolvedora Full Stack 
 </h3>
 
 <p align="center">
