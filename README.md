@@ -18,9 +18,7 @@ Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em sol
 
 # 👩🏻‍💻 Sobre mim
 
-🎓 Estudante de Desenvolvimento Full Stack Java pela **Generation Brasil**
-
-🌱 Atualmente estudando:
+🎓 Desenvolvedora Full Stack Java pela **Generation Brasil**
 
 - ☕ Java
 - 🍃 Spring Boot
@@ -45,9 +43,8 @@ Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em sol
 ---
 
 
-# 🌸 Atualmente
 
-💜 Estudando Java Full Stack
+💜  Java Full Stack
 
 📚 Aprendendo todos os dias
 
